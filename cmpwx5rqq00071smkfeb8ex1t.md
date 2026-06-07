@@ -379,5 +379,4 @@ And that's what makes software engineering fascinating.
 
 Interested in the implementation details? You can explore the complete source code here:
 
-🔗 **GitHub Repository:**  
-https://github.com/sravanya-2006/Netflix\_Reverse\_Engineering\_Reserach-Lab
+[🔗 GitHub Repository](https://github.com/sravanya-2006/Netflix_Reverse_Engineering_Research-Lab)
